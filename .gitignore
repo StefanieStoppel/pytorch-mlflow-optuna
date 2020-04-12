@@ -1,0 +1,8 @@
+# virutalenv files and dirs
+bin
+include
+lib
+.Python
+
+# PyCharm
+.idea
