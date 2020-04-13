@@ -3,6 +3,7 @@ bin
 include
 lib
 .Python
+etc
 
 # PyCharm
 .idea
