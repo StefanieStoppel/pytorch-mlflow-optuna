@@ -11,4 +11,7 @@ lib64
 pyvenv.cfg
 
 # Dataset
-./data
+data
+
+# Mlflow directory
+mlruns
