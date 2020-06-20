@@ -9,3 +9,6 @@ etc
 share
 lib64
 pyvenv.cfg
+
+# Dataset
+./data
