@@ -1,7 +1,5 @@
 # virutalenv files and dirs
-bin
-include
-lib
+venv
 .Python
 etc
 
