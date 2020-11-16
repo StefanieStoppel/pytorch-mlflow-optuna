@@ -1,0 +1,13 @@
+name: test-opt
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.7
+  - pip
+  - mlflow
+  - notebook
+  - optuna
+  - pytorch
+  - torchvision
