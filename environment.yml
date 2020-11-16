@@ -1,4 +1,4 @@
-name: test-opt
+name: pytorch-mlflow-optuna
 channels:
   - pytorch
   - conda-forge
