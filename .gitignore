@@ -15,3 +15,6 @@ data
 
 # Mlflow directory
 mlruns
+
+# Jupyter
+.ipynb_checkpoints
