@@ -1,6 +1,6 @@
 # PyTorch: Using MLflow and Optuna for experiment tracking and hyperparameter optimization
 
-This repository belongs to the [guide I wrote on Medium](add_url)
+This repository belongs to the [guide I wrote on Medium](https://medium.com/@qbrid/pytorch-mlflow-optuna-experiment-tracking-and-hyperparameter-optimization-132778d6defc)
 
 ## Setup
 1. Clone the project: `git clone https://github.com/StefanieStoppel/pytorch-mlflow-optuna.git`.
